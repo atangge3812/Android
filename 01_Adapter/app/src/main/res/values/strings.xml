@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">01_Adapter</string>
+
+    <array name="mainadapter">
+        <item>"ArrayAdapter"</item>
+        <item>"SimpleAdapter"</item>
+        <item>"BaseAdapterActivity"</item>
+        <item>"BaseAdapter2Activity"</item>
+        <item>"55555"</item>
+    </array>
+
+    <array name="arrayadapter">
+        <item>"arrayadapter1"</item>
+        <item>"arrayadapter2"</item>
+        <item>"arrayadapter3"</item>
+        <item>"arrayadapter4"</item>
+        <item>"arrayadapter5"</item>
+    </array>
+
+</resources>
